@@ -1,0 +1,17 @@
+table {
+	border-style: dashed;
+	empty-cells: show;
+	column-rule-style: dotted;
+}
+
+.nav {
+	background-color: rgba(10,10,10,.3);
+	color: red;
+}
+
+
+.nav a {
+	padding: 4px 10px 4px 10px;
+	font-family: fantasy;
+	font-size: 50px;x
+}
